@@ -33,18 +33,18 @@ Include the following:
 
 * School type
 
-Total students
+* Total students
 
-Total school budget
+* Total school budget
 
-Per student budget
+* Per student budget
 
-Average math score
+* Average math score
 
-Average reading score
+* Average reading score
 
-% passing math (the percentage of students who passed math)
+* % passing math (the percentage of students who passed math)
 
-% passing reading (the percentage of students who passed reading)
+* % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed math AND reading)
+* % overall passing (the percentage of students who passed math AND reading)
