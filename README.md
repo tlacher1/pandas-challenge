@@ -50,7 +50,9 @@ Include the following:
 
 * % overall passing (the percentage of students who passed math AND reading)
 
-[link](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ftlacher1%2Fpandas-challenge%2Fmain%2FPyCitySchools%2FAnalysis%2FAnalysis.docx&wdOrigin=BROWSELINK)
+## Link to Analysis and Results
+
+[Results Link](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ftlacher1%2Fpandas-challenge%2Fmain%2FPyCitySchools%2FAnalysis%2FAnalysis.docx&wdOrigin=BROWSELINK)
 
 ## Conclusions
 The city’s school district wanted to analyze the district-wide standardized test results to find any trends that can be used for school improvement and budgeting purposes. The analysis took metric snapshots of each school’s math and reading results as well as the metrics for the district as a whole. There was also a measurement of whether per student spending improved the overall testing outcome. The data was also run to compare small, medium, and large schools as well as any differences between district and charter schools.
