@@ -24,12 +24,6 @@ Include the following:
 
 * % overall passing (the percentage of students who passed math AND reading)
 
-<p align="center">
-<img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/District%20Summary.png">
-</p> 
-<p align="center">
-<img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/District.png">
-</p> 
 
 School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
@@ -56,18 +50,7 @@ Include the following:
 
 * % overall passing (the percentage of students who passed math AND reading)
 
-<p align="center">
-<img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/School%20Summary.png">
-</p> 
-<p align="center">
-<img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/School.png">
-</p> 
-<p align="center">
-<img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/Highest.png">
-</p> 
-<p align="center">
-<img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/Lowest.png">
-</p> 
+[link](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ftlacher1%2Fpandas-challenge%2Fmain%2FPyCitySchools%2FAnalysis%2FAnalysis.docx&wdOrigin=BROWSELINK)
 
 ## Conclusions
 The city’s school district wanted to analyze the district-wide standardized test results to find any trends that can be used for school improvement and budgeting purposes. The analysis took metric snapshots of each school’s math and reading results as well as the metrics for the district as a whole. There was also a measurement of whether per student spending improved the overall testing outcome. The data was also run to compare small, medium, and large schools as well as any differences between district and charter schools.
