@@ -26,6 +26,8 @@ Include the following:
 
 <p align="center">
 <img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/District%20Summary.png">
+</p> 
+<p align="center">
 <img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/District.png">
 </p> 
 
@@ -56,8 +58,14 @@ Include the following:
 
 <p align="center">
 <img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/School%20Summary.png">
+</p> 
+<p align="center">
 <img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/School.png">
+</p> 
+<p align="center">
 <img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/Highest.png">
+</p> 
+<p align="center">
 <img src="https://github.com/tlacher1/pandas-challenge/blob/e6b236733bf29d21789eda04f6c5287d9376c908/PyCitySchools/Analysis/Lowest.png">
 </p> 
 
